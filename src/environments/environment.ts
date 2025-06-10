@@ -1,16 +1,16 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: 'AIzaSyCYCOMRjP5uw05meHp0S3TDPQjaSl2LPKs',
+    apiKey: 'AIzaSyCcTiR8ink31MsFcuJTofl2bnjqRVW_9-E',
 
-    authDomain: 'strength-app-cd974.firebaseapp.com',
+    authDomain: 'training-app-7dc19.firebaseapp.com',
 
-    projectId: 'strength-app-cd974',
+    projectId: 'training-app-7dc19',
 
-    storageBucket: 'strength-app-cd974.firebasestorage.app',
+    storageBucket: 'training-app-7dc19.firebasestorage.app',
 
-    messagingSenderId: '588939477744',
+    messagingSenderId: '316754181932',
 
-    appId: '1:588939477744:web:16a9334867c35fde51f835',
+    appId: '1:316754181932:web:0af39fb32b90d32936b689',
   },
 };
